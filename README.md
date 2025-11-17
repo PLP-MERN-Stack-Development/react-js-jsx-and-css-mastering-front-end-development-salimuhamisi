@@ -1,3 +1,8 @@
+######
+# LINK TO THE LIVE SITE
+https://salimuhamisi.github.io/Frontend-React-Tailwind/
+######
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,3 +19,13 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+
+## Clone the project to the local machine, and run "npm install", to install all dependencies
+
+# To run development server, run "npm run dev", and the server will start at port 5173
+http://localhost:5173/react-js-jsx-and-css-mastering-front-end-development-salimuhamisi
+
+# Ta access the deployed and running page, navigate to;
+https://salimuhamisi.github.io/Frontend-React-Tailwind/

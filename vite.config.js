@@ -5,5 +5,5 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [tailwindcss(), react()],
-  base: '/Frontend-React-Tailwind',
+  base: "/react-js-jsx-and-css-mastering-front-end-development-salimuhamisi",
 })
